@@ -43,7 +43,7 @@
     "eslint-plugin-import": "^2.29.0"
   },
   "engines": {
-    "node": "^18.15.0",
+    "node": "20",
     "pnpm": "^8.0.0"
   },
   "packageManager": "pnpm@8.9.2"
